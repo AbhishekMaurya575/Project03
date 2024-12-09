@@ -11,7 +11,7 @@ import React from 'react'
                               <h1 className="text-3xl sm:text-4xl text-gray-800 font-extrabold tracking-tight">
                                   Get in touch: 
                               </h1>
-                              <p className="text-normal text-lg sm:text-xl font-medium text-gray-600 mt-2">
+                              <p className="text-normal text-lg sm:text-xl font-medium text-gray-600 mt-4">
                                   Fill in the form to start a conversation
                               </p>
   
